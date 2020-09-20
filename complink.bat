@@ -1,0 +1,1 @@
+cl /Zi /LD /EHsc /W4 /Od label.cpp /link /EXPORT:label /EXPORT:DebugExtensionInitialize /EXPORT:help
